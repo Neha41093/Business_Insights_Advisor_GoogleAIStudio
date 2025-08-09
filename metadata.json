@@ -1,0 +1,6 @@
+{
+  "name": "Business Insights Advisor",
+  "description": "An AI-powered advisor that analyzes uploaded CSV data to provide business insights, calculate metrics, and answer questions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
