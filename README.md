@@ -1,6 +1,8 @@
-# Run and deploy your AI Studio app
+# Deploying the AI Stuio App
 
 This contains everything you need to run your app locally.
+
+**Existing URL: https://business-insights-advisor-204522342353.us-west1.run.app/**
 
 ## Run Locally
 
